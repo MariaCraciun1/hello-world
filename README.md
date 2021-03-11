@@ -1,5 +1,4 @@
 # hello-world
-This is my first repository. 
 Hello there!
 
 I am Maria. Full time workaholic running down the roard to C++ heaven and getting ready to tackle Java soon enough.
